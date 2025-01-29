@@ -30,8 +30,8 @@ Cada cliente podrá elegir entre dos modos de uso:
 
 # 🚀 Extras Opcionales  
 Si quieres hacer la práctica más completa:  
-[ ] **Soporte de espacios en la operación** (`"10 + 5"` en vez de `"10+5"`). 
-[ ] **Extender operaciones** a multiplicación y división (`*`, `/`).  
-[ ] **Evitar división por cero**.  
-[ ] **Registro de conexiones** en el servidor con logs.  
-[ ] **Soporte para varios clientes simultáneos** y manejo de desconexiones.
+- [ ] **Soporte de espacios en la operación** (`"10 + 5"` en vez de `"10+5"`). 
+- [ ] **Extender operaciones** a multiplicación y división (`*`, `/`).  
+- [ ] **Evitar división por cero**.  
+- [ ] **Registro de conexiones** en el servidor con logs.  
+- [ ] **Soporte para varios clientes simultáneos** y manejo de desconexiones.
